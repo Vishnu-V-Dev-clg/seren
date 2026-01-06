@@ -67,14 +67,14 @@ This allows observation of how stress levels change as input values vary.
 ## Application Screenshots
 
 ### Very High Stress
-![Very High Stress](screenshots/Screenshot%202026-01-07%20001116.png)
+![Very High Stress](screenshots/Screenshot%202026-01-07%20001203.png)
 
 
 ### High Stress
 ![ High Stress](screenshots/Screenshot%202026-01-07%20001134.png)
 
 ### Moderate Stress
-![Moderate Stress](screenshots/Screenshot%202026-01-07%20001203.png)
+![Moderate Stress](screenshots/Screenshot%202026-01-07%20001116.png)
 
 ### No Stress
 ![No Stress](screenshots/Screenshot%202026-01-07%20001055.png)
