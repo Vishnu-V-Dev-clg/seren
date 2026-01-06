@@ -90,22 +90,7 @@ This allows observation of how stress levels change as input values vary.
 
 ---
 
-## 8. Project Structure
-
-```
-lib/
-├── main.dart
-├── pages/
-│   └── stress_home.dart
-├── utils/
-│   └── kalman_filter.dart
-test/
-└── widget_test.dart
-```
-
----
-
-## 9. Current Project Status
+## 8. Current Project Status
 
 * Manual GSR input testing completed
 * Kalman filtering logic implemented
@@ -114,7 +99,7 @@ test/
 
 ---
 
-## 10. Future Scope
+## 9. Future Scope
 
 * Integration with real GSR sensors
 * Continuous real-time data acquisition
@@ -124,19 +109,19 @@ test/
 
 ---
 
-## 11. Conclusion
+## 10. Conclusion
 
 SEREN successfully demonstrates the feasibility of stress detection using GSR values and Kalman filtering in a controlled, software-only environment. The project provides a strong foundation for future enhancements involving real-time hardware-based stress monitoring systems.
 
 ---
 
-## 12. Author
+## 11. Author
 
 Developed as a college mini project for academic evaluation.
 
 ---
 
-## 13. License
+## 12. License
 
 This project is intended for educational and research purposes only.
 
