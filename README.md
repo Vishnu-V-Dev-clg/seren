@@ -64,24 +64,19 @@ This allows observation of how stress levels change as input values vary.
 
 ---
 
-## 6. Application Screenshots
+## Application Screenshots
 
 ### Very High Stress
-
-![Very High Stress](Screenshot%202026-01-07%20001134.png)
+![Very High Stress](screenshots/Screenshot%202026-01-07%20001134.png)
 
 ### High Stress
-
-![High Stress](Screenshot%202026-01-07%20001116.png)
+![High Stress](screenshots/Screenshot%202026-01-07%20001116.png)
 
 ### Moderate Stress
-
-![Moderate Stress](Screenshot%202026-01-07%20001055.png)
+![Moderate Stress](screenshots/Screenshot%202026-01-07%20001055.png)
 
 ### No Stress
-
-![No Stress](Screenshot%202026-01-07%20001203.png)
-
+![No Stress](screenshots/Screenshot%202026-01-07%20001203.png)
 ---
 
 ## 7. Technologies Used
